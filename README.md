@@ -18,7 +18,7 @@ Content includes two Jupyter Notebooks that perform all text acquisition, pre-pr
  
  Finally, I included my UVA project write-up which the code here supplements.
 
- Note that in the code itself and displayed output, there should be no adult language.
+ Note that in the code itself and in the displayed output, there should be no adult language that is uncensored.
  
  However, given the nature of the lyrics used as the basis of the corpus in this study, there is adult language!
  
