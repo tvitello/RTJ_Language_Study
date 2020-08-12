@@ -1,9 +1,9 @@
- #RTJ_Language_Study
- #Final Project for DS5001, a UVA Course in the MSDS Curriculum
- #Project submitted for DS5001, University of Virginia
- #Summer 2020, MSDS Program
- #Travis Vitello
- #tjv9qh@virginia.edu
+ ## RTJ_Language_Study
+ ## Final Project for DS5001, a UVA Course in the MSDS Curriculum
+ ## Project submitted for DS5001, University of Virginia
+ ## Summer 2020, MSDS Program
+ ## Travis Vitello
+ ## tjv9qh@virginia.edu
 
 
 
