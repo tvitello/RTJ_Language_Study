@@ -5,6 +5,7 @@
  ## Travis Vitello
  ## tjv9qh@virginia.edu
 
+<b> NOTE: It looks like Github doesn't render strings with "$" correctly and that plotly_express visualizations are not rendered; these issues do not exist in the code, which can be downloaded! </b>
 
 
 This is an exploratory text analytics study focused on the discography of the hip-hop duo Run the Jewels.
